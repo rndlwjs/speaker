@@ -1,5 +1,6 @@
 # Repository for Speaker Verification
 
+|||||
 |---|---|---|---| 
 |Voxceleb-O||||
 |MIN 3.96s|MAX 69.04s|MEDIAN 6.48s|Mean 8.28| 
